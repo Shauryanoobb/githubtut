@@ -1,2 +1,4 @@
 hi im shaurya (branch)
 hi im shaurya (main updated post new branch checkout)
+
+writing on main (will only commit and not push before i move to feature branch, learning rebase)
