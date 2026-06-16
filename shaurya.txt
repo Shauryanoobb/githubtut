@@ -2,3 +2,6 @@ hi im shaurya (branch)
 hi im shaurya (main updated post new branch checkout)
 
 writing on feature branch (learning rebase), this is the one i use, manually resolved during rb
+
+lets take origin/main ahead from feature branch and try to rebase from origin/main (this is what ill usally do at company since my local main might be behind, so ill most likely rebase from
+origin main)
