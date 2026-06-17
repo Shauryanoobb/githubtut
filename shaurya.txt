@@ -12,3 +12,5 @@ commit 2 on feature1
 commit 3 on feature1
 commit 4 on feature1
 
+lets learn stacked PRs now, created branch feature3 from branch feature2
+commit W on feature3
