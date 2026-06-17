@@ -9,3 +9,6 @@ origin main)
 trying to learn interactive rebase, for cleaner commit history
 commit 1 on feature1
 commit 2 on feature1
+commit 3 on feature1
+commit 4 on feature1
+
